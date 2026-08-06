@@ -160,6 +160,3 @@ For issues or questions about the template, please refer to the code comments th
 - Customize colors to match your branding
 - Test on various devices before deployment
 
----
-
-**Created with passion for basketball and web design** 🏀
