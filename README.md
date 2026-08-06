@@ -151,12 +151,3 @@ This template is free to use and modify for personal and commercial projects.
 ## 🤝 Support
 
 For issues or questions about the template, please refer to the code comments throughout the files.
-
-## 📝 Notes
-
-- Replace placeholder text with actual player information
-- Update social media links with real profiles
-- Consider adding real images to the gallery
-- Customize colors to match your branding
-- Test on various devices before deployment
-
